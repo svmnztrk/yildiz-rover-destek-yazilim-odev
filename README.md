@@ -3,6 +3,12 @@
 
 Bu proje OpenCV ve Python kullanarak stop tabelasını tespit etmeyi amaçlamaktadır.  
 Görüntü üzerinde renk maskeleme (HSV), kontur tespiti ve alan kontrolü yapılmaktadır.
+# Kullanım
+İşlenecek görselin dosya yolunu `image_path` değişkenine giriniz.  
+
+Örnek:
+```python
+image_path = "stop_sign.jpg"
 
 # Gereksinimler
 - Python 3.x
