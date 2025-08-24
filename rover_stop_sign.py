@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 #önce görseli okuttum ve orijinal halini gösterdim
-img = cv2.imread("stopsign5.jpg")
+img = cv2.imread("image_path")
 cv2.imshow("orijinal hali", img)
 
 #görseli HSV kanalına çevirdik bunun 2 nedeni var:
