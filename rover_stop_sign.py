@@ -61,6 +61,5 @@ cv2.circle(img_final, (center_x, center_y), 5, (0, 255, 0), -1)
 print(f"stop tabelasının merkezi: ({center_x}, {center_y})")
 
 cv2.imshow("final gorseli", img_final)
-cv2.imwrite("cikti5.png", img_final)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
