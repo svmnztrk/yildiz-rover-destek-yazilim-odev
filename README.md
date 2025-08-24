@@ -1,4 +1,4 @@
-# yildiz-rover-destek-yazilim-odev
+
 # Stop Sign Detection with OpenCV
 
 Bu proje OpenCV ve Python kullanarak stop tabelasını tespit etmeyi amaçlamaktadır.  
